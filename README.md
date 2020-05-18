@@ -4,6 +4,12 @@ $ pkg update && pkg upgrade
 
 $ pkg install git
 
+$ pkg install figlet
+
+$ pkg install ruby
+
+$ gem install lolcat
+
 $ pkg install python2
 
 $ git clone https://github.com/reyspeed/wifi
