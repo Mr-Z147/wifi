@@ -12,6 +12,10 @@ $ gem install lolcat
 
 $ pkg install python2
 
+$ termux-setup-storage
+
+$ cd /sdcard
+
 $ git clone https://github.com/reyspeed/wifi
 
 $ cd wifi
